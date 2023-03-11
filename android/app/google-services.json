@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22727084704",
+    "firebase_url": "https://plant-monitoring-cf196-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "plant-monitoring-cf196",
+    "storage_bucket": "plant-monitoring-cf196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22727084704:android:ab375022cfaf43891817c5",
+        "android_client_info": {
+          "package_name": "com.andigeeky.plantmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22727084704-obcb7mj2rql6t1gsf103cqs8hki9g6ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andigeeky.plantmonitoring",
+            "certificate_hash": "a9371f812e2da5fa5a2664b9437797a9f0ec293f"
+          }
+        },
+        {
+          "client_id": "22727084704-bbfltu9l0mokel3pugph6nvtfepdhjtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiLltrtiY4f1tN-iLhxy4XAjGn_3HvAxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22727084704-bbfltu9l0mokel3pugph6nvtfepdhjtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
